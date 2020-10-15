@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **[Classifieds.tf](https://github.com/classifieds-tf)**
+- 🌱 I’m currently learning **Kubernetes** and **microservice architecture**
+- 💬 Ask me about **NodeJS** and **Typescript**
+- 📫 How to reach me: **Email** or **Discord (Nicklason#0001)**
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicklason&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicklason&layout=compact" alt="Most used languages" />
+</p>
