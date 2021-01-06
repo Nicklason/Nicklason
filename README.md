@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **[Classifieds.tf](https://github.com/classifieds-tf)**
-- 🌱 I’m currently learning **Kubernetes**, **microservice architecture**, **GraphQL** and **Terraform**
+- 🌱 I’m currently learning **Kubernetes**, **microservice architecture**, *NestJS*, **GraphQL** and **Terraform**
 - 💬 Ask me about **NodeJS** and **TypeScript**
 - 📫 How to reach me: **Email** or **Discord (Nicklason#0001)**
 
