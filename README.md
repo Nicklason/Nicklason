@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **[Classifieds.tf](https://github.com/classifieds-tf)**
-- 🌱 I’m currently learning **Kubernetes**, **microservice architecture**, **NestJS**, **GraphQL** and **Terraform**
-- 💬 Ask me about **NodeJS** and **TypeScript**
-- 📫 How to reach me: **Email** or **Discord (Nicklason#0001)**
+- 🔭 I’m currently working on **[TF2 Automatic](https://github.com/tf2-automatic)**, **[Prices.tf](https://github.com/prices-tf)** and **[Classifieds.tf](https://github.com/classifieds-tf)**
+- 🌱 I’m currently learning  **Monorepos** and **Nx**
+- 💬 Ask me about **TypeScript**, **Microservices** and **Kubernetes**
+- 📫 How to reach me: **Email** and **Discord** (Nicklason#0001)
 
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklason&layout=compact)
