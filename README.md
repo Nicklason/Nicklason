@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  **Monorepos** and **Nx**
 - 💬 Ask me about **TypeScript**, **Microservices** and **Kubernetes**
 - 📫 How to reach me: **Email** and **Discord** (Nicklason#0001)
-
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklason&layout=compact)
