@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **[TF2 Automatic](https://github.com/tf2-automatic)**, **[Prices.tf](https://github.com/prices-tf)** and **[Classifieds.tf](https://github.com/classifieds-tf)**
 - 🌱 I’m currently learning  **Monorepos** and **Nx**
 - 💬 Ask me about **TypeScript**, **Microservices** and **Kubernetes**
-- 📫 How to reach me: **Email** and **Discord** (Nicklason#0001)
+- 📫 How to reach me: **Email** and **Discord** (username: Nicklason)
